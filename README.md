@@ -30,7 +30,7 @@ I have build a Responsive Web Application Which runs Fluently on PCs/Desktops,Mo
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Device-Compatibility-Web-Application/issues). You can also take a look at the our project and PR us .[PR Url](https://github.com/yashrajjain726/Device-Compatibility-Web-Application/pulls).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/yashrajjain726/Device-Compatibility-Web-Application/issues). You can also take a look at the our project and PR us .[Click to raise PR](https://github.com/yashrajjain726/Device-Compatibility-Web-Application/pulls).
 
 ## Show your support
 
