@@ -1,9 +1,9 @@
 
-## Device Compatibility Web Application ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/Device-Compatibility-Web-Application?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/Device-Compatibility-Web-Application?style=social) 
+# Device Compatibility Web Application ![GitHub stars](https://img.shields.io/github/stars/yashrajjain726/Device-Compatibility-Web-Application?style=social)![GitHub forks](https://img.shields.io/github/forks/yashrajjain726/Device-Compatibility-Web-Application?style=social) 
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/yashrajjain726/Device-Compatibility-Web-Application) ![GitHub last commit](https://img.shields.io/github/last-commit/yashrajjain726/Device-Compatibility-Web-Application)  ![GitHub issues](https://img.shields.io/github/issues-raw/yashrajjain726/Css-Based-Menu-Section) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/yashrajjain726/Device-Compatibility-Web-Application)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Device Compatibility Web Application
+## Device Compatibility Web Application
 I have build a Responsive Web Application Which runs Fluently on PCs/Desktops,Mobile Phones,Tablets and Other Devices too . 
 
 ### :file_folder: [Code Section](https://github.com/yashrajjain726/Device-Compatibility-Web-Application)
