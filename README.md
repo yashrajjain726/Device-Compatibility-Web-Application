@@ -21,9 +21,10 @@ I have build a Responsive Web Application Which runs Fluently on PCs/Desktops,Mo
 
 👤 **Yashraj Jain**
 
-* Website: yashrajjain726.github.io
-* Github: [@yashrajjain726](https://github.com/yashrajjain726)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/yashraj-jain-695453178\/](https://linkedin.com/in\/yashraj-jain-695453178\/)
+* [Website](yashrajjain726.github.io)
+* [Github Profile](https://github.com/yashrajjain726)
+* [LinkedIn Profile](https://linkedin.com/in\/yashraj-jain-695453178\/)
+
 
 ## 🙋 Created and Maintained by. 
 [Yashraj Jain](https://github.com/yashrajjain726)
